@@ -9,7 +9,7 @@ The String Splitter is a simple and versatile utility that allows you to split a
 ## Example input
 
 Input: apple,banana,cherry,grape
-Delimiter: 
+Delimiter: ,
 ## example output
 Split Result:
 - apple
